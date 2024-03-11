@@ -36,7 +36,7 @@ const Navbar = () => {
         </a>
         <nav role="navigation" class="nav-menu w-nav-menu">
           <a href="#home" class="nav-link w-nav-link">
-            Home
+            deploytestcase
           </a>
           <a href="#services" class="w-nav-link">
             Services
