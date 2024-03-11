@@ -40,6 +40,7 @@ const FadeUp = batch(Fade(), Move(), Sticky());
       },
     });
   }, [controls]);
+  
   useEffect(() => {
     // NAVBAR CODE
     const navbar = document.getElementById("navbar");
